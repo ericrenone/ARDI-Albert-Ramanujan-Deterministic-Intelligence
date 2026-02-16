@@ -28,11 +28,10 @@ From first principles: Start with the observation that any reasoning process inv
 | Sync Latency (1k Nodes) | 12.4 μs        | **0.82 μs**   | **15× Faster** |
 | Power (1k Nodes)        | 250 kW         | **40 kW**     | **6× Efficient**|
 
-This is not incremental ML—it's a **complete theory**, proven from axioms, implemented in code/hardware, and validated empirically.
 
 ---
 
-## From First Principles: The Four Pillars
+## The Four Pillars:
 
 We derive each pillar step-by-step, starting from basic axioms of computation and reasoning. No priors assumed beyond set theory and linear algebra.
 

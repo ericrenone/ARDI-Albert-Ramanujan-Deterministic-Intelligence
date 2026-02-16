@@ -1,4 +1,4 @@
-# Deterministic Intelligence:
+# Theory-of-Deterministic-Intelligence:
 
 A framework for machine learning systems with structured learning dynamics through non-associative algebra, fixed-point arithmetic, and information-theoretic constraints.
 

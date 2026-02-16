@@ -1,6 +1,4 @@
-# The Complete Theory of Deterministic Intelligence
-
-**From First Principles to Hardware Implementation**
+# Deterministic Intelligence: From First Principles to Hardware Implementation
 
 ---
 

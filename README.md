@@ -3,17 +3,6 @@
 
 ---
 
-## Results
-
-| Metric | Baseline | Ours | Δ |
-|--------|----------|------|---|
-| Hallucinations | 0.8% | **0.0%** | -100% |
-| Epochs to grok | 8,500 | **2,400** | -71% |
-| Test accuracy | 99.2% | **100.0%** | +0.8% |
-| Numerical drift | 2.3×10⁻⁷ | **0.0** | Perfect |
-
----
-
 ## Theory
 
 Four constraints guarantee correctness:

@@ -554,7 +554,6 @@ of all five properties is an aspiration stated as a theorem — the individual
 components are proven, but their integration achieving the information-theoretic
 optimum has not been demonstrated on a non-toy task.
 
-This is research. The foundations are solid. The full claim is not yet proven.
 
 ---
 
